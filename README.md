@@ -1,8 +1,8 @@
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm David Olasunkanmi Adisa!
 
 🚀 **Data Analyst | MSc in Big Data Analytics**  
 🎯 Passionate about Data Science, Machine Learning, and Business Intelligence  
-📍 Based in [Your Location]  
+📍 Based in United Kingdom  
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
